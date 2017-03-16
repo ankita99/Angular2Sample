@@ -1,6 +1,7 @@
 {
   "name": "angular",
   "version": "0.0.0",
+  "author": "ankita_singh",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
